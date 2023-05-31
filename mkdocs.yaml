@@ -2,6 +2,7 @@ site_name: 'node-backstage-tutorial'
 
 nav:
   - Home: index.md
+  - Glossary: glossary.md
 
 plugins:
   - techdocs-core
